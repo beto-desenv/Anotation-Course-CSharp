@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Classes", "Course-Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Classes_2", "Course-Classes_2\Course-Classes_2.csproj", "{86F7A5AB-7650-4293-8D4B-81C186F7D421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-Membros-Estaticos", "Course-Membros-Estaticos\Course-Membros-Estaticos.csproj", "{AC639326-CFAC-4521-97BD-50BCB5FC2708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Membros-Estaticos", "Course-Membros-Estaticos\Course-Membros-Estaticos.csproj", "{AC639326-CFAC-4521-97BD-50BCB5FC2708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-Construtores", "Course-Construtores\Course-Construtores.csproj", "{D9A490D4-7F53-4C6F-9611-D01138A2C8B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AC639326-CFAC-4521-97BD-50BCB5FC2708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC639326-CFAC-4521-97BD-50BCB5FC2708}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC639326-CFAC-4521-97BD-50BCB5FC2708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A490D4-7F53-4C6F-9611-D01138A2C8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A490D4-7F53-4C6F-9611-D01138A2C8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A490D4-7F53-4C6F-9611-D01138A2C8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A490D4-7F53-4C6F-9611-D01138A2C8B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
