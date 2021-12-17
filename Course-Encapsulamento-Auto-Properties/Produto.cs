@@ -8,10 +8,6 @@ namespace Course_Encapsulamento_Auto_Properties
         public double Preco { get; private set; }
         public int Quantidade { get; private set; }
 
-        public Produto()
-        {
-        }
-
         public Produto(string nome, double preco, int quantidade)
         {
             _nome = nome;
