@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Membros-Estaticos", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Construtores", "Course-Construtores\Course-Construtores.csproj", "{D9A490D4-7F53-4C6F-9611-D01138A2C8B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-Encapsulamento-1", "Course-Encapsulamento\Course-Encapsulamento-1.csproj", "{B018E658-ACBC-4FD8-8D86-EA5970E8EF2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Encapsulamento-1", "Course-Encapsulamento\Course-Encapsulamento-1.csproj", "{B018E658-ACBC-4FD8-8D86-EA5970E8EF2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-Encapsulamento-Properties-2", "Course-Encapsulamento-Properties\Course-Encapsulamento-Properties-2.csproj", "{C48742DB-0256-44C6-97AE-63D24F78564F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Encapsulamento-Properties-2", "Course-Encapsulamento-Properties\Course-Encapsulamento-Properties-2.csproj", "{C48742DB-0256-44C6-97AE-63D24F78564F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-Encapsulamento-Auto-Properties-3", "Course-Encapsulamento-Auto-Properties\Course-Encapsulamento-Auto-Properties-3.csproj", "{684C6967-0537-4A45-80CF-14D13B19664C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Encapsulamento-Auto-Properties-3", "Course-Encapsulamento-Auto-Properties\Course-Encapsulamento-Auto-Properties-3.csproj", "{684C6967-0537-4A45-80CF-14D13B19664C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-Vetores", "Course-Vetores\Course-Vetores.csproj", "{D27BFDBE-87A7-4A92-986A-E13E31E38988}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{684C6967-0537-4A45-80CF-14D13B19664C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684C6967-0537-4A45-80CF-14D13B19664C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684C6967-0537-4A45-80CF-14D13B19664C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27BFDBE-87A7-4A92-986A-E13E31E38988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27BFDBE-87A7-4A92-986A-E13E31E38988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27BFDBE-87A7-4A92-986A-E13E31E38988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27BFDBE-87A7-4A92-986A-E13E31E38988}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
